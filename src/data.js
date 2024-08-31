@@ -8,4 +8,13 @@ export default [
           notional boundary between the areas of Fitzrovia and Marylebone to the
           north, with Soho and Mayfair to its immediate south.`,
   },
+  {
+    country: "Spain",
+    location: "Barcelona",
+    date: "2030",
+    imgLink: `https://images.pexels.com/photos/705423/pexels-photo-705423.jpeg`,
+    info: `Barcelona is a city on the northeastern coast of Spain.The city is known for hosting the 1992 Summer Olympics as well as world-class conferences and expositions. In addition, many international sport tournaments have been played here.
+
+`,
+  },
 ];
